@@ -1,6 +1,6 @@
 {
-  "name": "@tj/hello",
-  "version": "1.0.0",
+  "name": "@jeetech/hello",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:qiuzhanghua/tj-hello.git",
   "author": "qiuzhanghua <qiuzhanghua@icloud.com>",
