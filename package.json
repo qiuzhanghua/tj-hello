@@ -1,0 +1,8 @@
+{
+  "name": "@tj/hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "qiuzhanghua@icloud.com",
+  "license": "MIT",
+  "private": false
+}
